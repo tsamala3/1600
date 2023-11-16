@@ -6,7 +6,7 @@
 2. [Dubai](Dubai)
 3. [Bali](Bali)
 4. [Tanzania](Tanzania)
-5. [CostaRica](CostaRica)
+5. [Costa Rica](CostaRica)
 
 
 
