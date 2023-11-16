@@ -1,12 +1,12 @@
 # Top places to travel to
 
-## In this site you will learn
+## Below are a few destinations...
 
-1.
-2.
-3.
-4.
-5.
+1. Philipines
+2. Dubai
+3. Bali
+4. Tanzania
+5. Costa Rica
 
 
 
