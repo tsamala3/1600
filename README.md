@@ -3,7 +3,7 @@
 ## Below are a few destinations...
 
 1. [Philippines](philippines.md)
-![flag](Flag-Philippines.png){width=60%,height:30px}
+![flag](Flag-Philippines.png){ width=60%,height:30px }
 
 
 
