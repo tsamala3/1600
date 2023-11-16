@@ -2,11 +2,11 @@
 
 ## Below are a few destinations...
 
-1. +[Philippines](Philippines)
-2. +[Dubai](Dubai)
-3. +[Bali](Bali)
-4. +[Tanzania](Tanzania)
-5. +[Costa Rica](Costa Rica)
+1. [Philippines](Philippines)
+2. [Dubai](Dubai)
+3. [Bali](Bali)
+4. [Tanzania](Tanzania)
+5. [CostaRica](Costa Rica)
 
 
 
