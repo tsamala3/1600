@@ -14,3 +14,5 @@ To add two multiple-digit decimal numbers, you first need to know how to add two
 [Subtraction](https://www.wikihow.com/Subtract-Binary-Numbers)
 
 For decimal [subtraction] (https://www.exploringbinary.com/binary-subtraction/), the basic facts are things like 5 – 1 = 4, 9 – 8 = 1, and 18 – 9 = 9. In each case, the answer is a single-digit, nonnegative integer. Most of the facts are “single-digit minus single-digit” problems, but some are “double-digit minus single-digit” problems (the double digits are the numbers 10 through 18). The latter represent cases of borrowing, which is the process by which negative answers are prevented.
+
+[return to homepage](README.md)
