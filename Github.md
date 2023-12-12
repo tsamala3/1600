@@ -27,3 +27,5 @@ You can add Markdown formatting elements to a plaintext file using a text editor
 ### Basic Syntax
 
 This [link](https://www.markdownguide.org/basic-syntax/) provides basic syntax for markdown.
+
+[return to home page](README.md)
