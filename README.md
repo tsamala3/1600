@@ -2,10 +2,7 @@
 
 ## Below are a few destinations...
 
-1.[phillipines](phillippines.md)
-
-
-
+1. [Phillipines](phillippines.md)
 2. [Dubai](Dubai.md)
 3. [Bali](Bali.md)
 4. [Tanzania](Tanzania.md)
