@@ -2,8 +2,7 @@
 
 ## Below are a few destinations...
 
-1.(philippines.md)
-![flag](Flag-Philippines.png)(philippines.md)
+1.[phillipines](phillippines.md)
 
 
 
