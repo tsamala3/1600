@@ -9,3 +9,4 @@ For [volatile](https://en.wikipedia.org/wiki/Volatile_memory) storageLinks to an
 
 For [non-volatile storage](https://www.techopedia.com/definition/15261/non-volatile-storage-nvs), data persists after turning off or losing power. Non-volatile storage is used for long-term storage. Magnetic tapes, hard disks, optical disk, DVD, Blu-Ray, and solid state drives (SSDs) are examples of non-volatile storage. Non-volatile storage tends to be more inexpensive than volatile storage and has slower access and transfer speeds.
 
+[return to home page](README.md)
