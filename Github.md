@@ -18,9 +18,12 @@ The following [link](https://docs.github.com/en/get-started/quickstart/hello-wor
 
 You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
 
-### Creating an md.
+## Creating an md.
 
 - Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.
 - Open the Markdown file in a Markdown application.
 - Use the Markdown application to convert the Markdown file to an HTML document.
 - View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.
+### Basic Syntax
+
+This [link](https://www.markdownguide.org/basic-syntax/) provides basic syntax for markdown.
