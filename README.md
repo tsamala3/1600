@@ -1,8 +1,9 @@
-# Top places to travel to
+# Welcome to My IT Tutorial Website
 
-## Below are a few destinations...
+## 
+On this website, you can acquire new foundational IT skills, enhance your understanding, become acquainted with technologies such as GitHub, SVGs, cybersecurity, audio, digital displays, RAM, and more.
 
-1. [Phillipines](phillippines.md)
+1. [Digital Information](DigitalInformation.md)
 2. [Dubai](Dubai.md)
 3. [Bali](Bali.md)
 4. [Tanzania](Tanzania.md)
