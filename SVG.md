@@ -45,3 +45,5 @@ SVG's allow you to be creative. From a house to your name you are able to make e
 </html>
 
 '''
+
+[return to home page](README.md)
