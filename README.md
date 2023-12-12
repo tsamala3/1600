@@ -7,8 +7,8 @@ On this website, you can acquire new foundational IT skills, enhance your unders
 1. [Digital Information](DigitalInformation.md)
 2. [SVG](SVG.md)
 3. [Github](Github.md)
-4. [DigitalStorage](Digitalstorage.md)
-5. [Costa Rica](CostaRica.md)
+4. [Digital Storage](Digitalstorage.md)
+5. [Binary Arithmetic](BinaryArithmetic.md)
 
 
 
