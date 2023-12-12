@@ -14,6 +14,8 @@ SVG images are defined in a vector graphics format and stored in XML text files.
 
 [W3school](https://www.w3schools.com/graphics/svg_intro.asp)
 
+'''
+
 <html>
 <body>
 
@@ -25,3 +27,5 @@ SVG images are defined in a vector graphics format and stored in XML text files.
 
 </body>
 </html>
+
+'''
