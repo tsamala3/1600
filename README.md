@@ -8,7 +8,7 @@ On this website, you can acquire new foundational IT skills, enhance your unders
 2. [SVG](SVG.md)
 3. [Github](Github.md)
 4. [Digital Storage](Digitalstorage.md)
-5. [Binary Arithmetic]
+5. [Binary Arithmetic](BinaryArithmetic)
 
 
 
